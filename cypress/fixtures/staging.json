@@ -1,0 +1,7 @@
+{
+    "username": "admin2",
+    "password":"test2",
+    "url":"staging.google.com",
+    "quickLaunch": ["Assign Leave", "Leave List", "Apply Leave", "My Leave"]
+
+}
